@@ -1,4 +1,5 @@
-mkdir marzback
+mkdir marzback;
+cd marzback;
 sudo apt update && apt upgrade -y;
 sudo apt-get install php -y;
 sudo apt-get install php-curl -y;
