@@ -1,5 +1,5 @@
 ## MarzBack: Marzban Backup bot
-[Persian Readme](https://github.com/Musixal/Rathole-Tunnel/blob/main/README_FA.md)
+
 
 # What is marzback?
 A script for get marzban backup easily, its working on telegram bot
